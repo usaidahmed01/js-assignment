@@ -543,7 +543,7 @@
 
 // if (opr == '+') {
 //     console.log(num1 + ' + ' + num2 + ' = ' + add);
-    
+
 // }else if (opr == '-'){
 //     console.log(num1 + ' - ' + num2 + ' = ' + sub);
 
@@ -557,4 +557,114 @@
 // }else {
 //     console.log(num1 + ' % ' + num2 + ' = ' + mod);
 
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+// const days = prompt ('Enter Todays day')
+// // const days = ['Monday', 'Tuesday' , 'Wednesday' , 'Thursday' , 'Friday' , 'Saturday' , 'Sunday']
+// if (days == 'monday' || days ==  'tuesday' || days ==  'wednesday' || days ==  'thursday' || days ==  'friday') {
+//     console.log('Its a Week day.');
+// } else if(days == 'saturday' ){
+//     console.log('Its Weekend');
+// }else {
+//     console.log('Yay! Its Holiday');
+// }
+
+
+
+
+
+
+
+
+
+// const score = +prompt ('Enter Your Score in Exams' )
+// if (score >= 50) {
+// console.log('Youre Passed '+"\n" + 'Congratulations!');
+// } else {
+//     console.log('try again');
+
+// }
+
+
+
+
+
+
+
+
+
+// const num1 = +prompt ('Enter Any Number')
+// const num2 = +prompt ('Enter Any Number')
+// if (num1 > num2) {
+//     console.log(num1 +' is '+ ' Greater than ' + num2);
+
+// } else if(num1 == num2){
+//     console.log(num1 + ' is ' + ' Equal to '+ num2);
+
+// }else{ 
+//     console.log(num2 + ' is ' + ' Greater than ' + num1);
+// }
+
+
+
+
+
+
+
+
+
+
+// const lanCode = prompt('To see Hello world in different languages? \n ' + 'Enter any language code' + '\n' + 'en ,  , ')
+
+
+
+
+
+
+
+
+
+
+// const num = +prompt ('Enter any Number')
+// if (num > 0) {
+//     console.log(num + ' is a Positive number');
+
+    
+// } else if (num < 0){
+//     console.log(num + ' is a negative number');
+    
+// } else if (num == '0' ){
+//     console.log(num + ' is neutral');
+// } else {
+//     console.log('Errorrrrrrrrrrrrr! Please enter any number.' );
+// }
+
+
+
+
+
+
+
+
+
+// const number = prompt ('Enter any number')
+// const noun = prompt ('Enter any noun')
+// if (number > 1) {
+//     console.log(number +' '+ noun + 's');
+// } else {
+//     console.log(number +' '+ noun);
+    
+    
 // }
