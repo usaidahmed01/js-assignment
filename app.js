@@ -533,7 +533,7 @@
 
 
 // const num1 = +prompt('Enter number 1')
-// const num2 = +prompt('Enter number 1')
+// const num2 = +prompt('Enter number 2')
 // const opr = prompt('+ , - , * , / , %')
 // const add = num1 + num2
 // const sub = num1 - num2
@@ -641,10 +641,10 @@
 // if (num > 0) {
 //     console.log(num + ' is a Positive number');
 
-    
+
 // } else if (num < 0){
 //     console.log(num + ' is a negative number');
-    
+
 // } else if (num == '0' ){
 //     console.log(num + ' is neutral');
 // } else {
@@ -665,6 +665,134 @@
 //     console.log(number +' '+ noun + 's');
 // } else {
 //     console.log(number +' '+ noun);
+
+
+// }
+
+
+
+
+
+// If Else 
+
+
+
+
+
+
+
+// const num = +prompt ('Enter Any Number')
+// if ( num == 3 ||  num == 6 ||  num == 9 ||  num == 12 ||  num == 15 ||  num == 18 ||  num == 21 ||  num == 24 ||  num == 27 ||  num == 30 || ) {
+//     console.log(num + ' is ' + 'Divisible by 3');
+
+// } else {
+//     console.log(num + ' is not divisible by 3');
+
+// }
+
+
+
+
+
+
+
+
+
+
+// const num = +prompt ('Enter Any Number')
+// if ( num == 2 ||  num == 4 ||  num == 6 ||  num == 8 ||  num == 10 ||  num == 12 ||  num == 14 ||  num == 16 ||  num == 18 ||  num == 20 || ) {
+//     console.log('The ' + num + ' is Even Number ');
+// } else {
+//     console.log('The ' + num + ' is Odd Number ');
+
+// }
+
+
+
+
+
+
+
+
+
+// const age = +prompt ('Enter your Age')
+// if (age >= 18) {
+//     console.log('Old Enough');
+
+// } else {
+//     console.log('Too young');
+
+// }
+
+
+
+
+
+
+
+
+// const userName = prompt ('Enter Your Name')
+// if (userName == 'usaid' || userName == 'Usaid') {
+//     console.log('Hello Welcome to JS');
+
+// } else {
+//     console.log(' ');
+
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+// const time = prompt(' Enter current time in 24 hours format')
+// if (time >= 0000 && time < 1200) {
+//     console.log('GOOD MORNING !');
+
+// } else if (time >= 1200 && time < 1700) {
+//     console.log(' GOOD AFTERNOON !');
+// } else if (time >= 1700 && time < 2100) {
+//     console.log(' GOOD EVENING !');
+// } else if (time >= 2100 && time <= 2359) {
+//     console.log('GOOD NIGHT');
+
+// }
+
+
+
+
+
+
+// const year = prompt('Enter Your Year')
+// if (year == 2000 || year == 2004 || year == 2008 || year == 2012 || year == 2016 || year == 2020 || year == 2024  ) {
+//     console.log(year + ' is the leap year');
+
+// } else {
+//     console.log(year + ' is not a leap year');
+
+// }
+
+
+
+
+
+
+
+
+
+
+
+// const pass = prompt ( 'Guess my Password')
+// if (pass == 'usaid123') {
+//     console.log('Correct !');
     
-    
+// } else {
+//     console.log('Incorrect ! ' + '\n' + 'Try again ');
 // }
