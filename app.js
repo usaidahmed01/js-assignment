@@ -796,3 +796,60 @@
 // } else {
 //     console.log('Incorrect ! ' + '\n' + 'Try again ');
 // }
+
+
+
+
+
+
+
+
+
+// const dom = document.querySelector ('h1')
+// const userName = prompt (`Enter Your Name`)
+// if (userName === `Usaid` || userName === `usaid`) {
+//     dom.innerHTML = `hello ${userName}`
+// } else {
+//     dom.innerHTML = `hello ${userName} , You are not Usaid`
+    
+// }
+
+
+
+
+
+
+
+
+
+// const dom = document.querySelector ('h1')
+// const num1 = +prompt ('Enter Number 1')
+// const num2 = +prompt ('Enter Number 2') 
+
+// if (num1 > num2 ) {
+//     dom.innerHTML = `${num1} is Greater`
+    
+// } else if (num1 == num2){
+//     dom.innerHTML = `${num1} is Equal to ${num2}`
+    
+// }else {
+//     dom.innerHTML = `${num2} is Greater`
+
+// }
+
+
+
+
+
+// const dom = document.querySelector ('h1')
+// const  num = +prompt (`Enter any +ve or -ve Number`)
+// if (num > 0) {
+//     dom.innerHTML = `${num} is positive number`
+    
+// }else if (num < 0){
+//     dom.innerHTML = `${num} is negative number`
+
+// }else {
+//     dom.innerHTML = `${num} is equal to zero`
+
+// }
